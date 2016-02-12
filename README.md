@@ -1,2 +1,2 @@
-# firstRepositoryEver
-My first repository
+# Django Project
+Starting Django through Django Girls tutorial. #go_python
